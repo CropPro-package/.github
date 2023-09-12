@@ -5,5 +5,5 @@ If you have a question regarding the package and its use please contact us eithe
 
 The readme document within the CropPro repository provides introductory instructions on how to use and cite the package.
 
-For more detail, please refer to Stroud et al 202? article in Vegetation history and Archaeobotany DOI:
+For more detail, please refer to Stroud et al 202? article in Vegetation History and Archaeobotany DOI:
 
