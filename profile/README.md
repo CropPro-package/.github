@@ -7,3 +7,4 @@ The readme document within the CropPro repository provides introductory instruct
 
 For more detail, a journal article regarding the use of the package will soon be available in Vegetation History and Archaeobotany. Full details will be provided when it is published.
 
+CropPro has a sister package called WeedEco which allows user to use functional weed ecology to compare past and present-day farming regimes. WeedEco can be found at https://github.com/WeedEco
