@@ -5,6 +5,6 @@ If you have a question regarding the package and its use, please contact us via 
 
 The readme document within the CropPro repository provides introductory instructions on how to use and cite the package.
 
-More details regarding the use of the package are provided in a journal article. This will soon be available in Vegetation History and Archaeobotany and full details will be provided when it is published.
+Details regarding the use of the package are provided in a journal article : Stroud, E., Jones, G., Charles, M. et al. Sieving the weeds from the grains: an R based package for classifying archaeobotanical samples of cereals and pulses according to crop processing stages. Veget Hist Archaeobot (2024). https://doi.org/10.1007/s00334-024-01006-7
 
 CropPro has a sister package called WeedEco which allows user to use functional weed ecology to compare past and present-day farming regimes. WeedEco can be found at https://github.com/WeedEco
